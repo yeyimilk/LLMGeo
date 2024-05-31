@@ -1,0 +1,59 @@
+---------------------------------------- Summary ----------------------------------------
+
+                 ISO3                         NAME     IMAGES          %
+1                 BRA                       Brazil         30      12.00
+2                 IND                        India         21       8.40
+3                 CAN                       Canada         14       5.60
+4                 AUS                    Australia         12       4.80
+5                 TUR                       Turkey         11       4.40
+6                 ARG                    Argentina         10       4.00
+7                 UKR                      Ukraine         10       4.00
+8                 RUS                       Russia          8       3.20
+9                 MEX                       Mexico          7       2.80
+10                CHN                        China          7       2.80
+11                DEU                      Germany          6       2.40
+12                NGA                      Nigeria          6       2.40
+13                KHM                     Cambodia          5       2.00
+14                ZAF                 South Africa          5       2.00
+15                COL                     Colombia          5       2.00
+16                USA                United States          5       2.00
+17                VNM                     Viet Nam          4       1.60
+18                BGR                     Bulgaria          4       1.60
+19                SWE                       Sweden          4       1.60
+20                POL                       Poland          4       1.60
+21                ROU                      Romania          4       1.60
+22                PER                         Peru          4       1.60
+23                AUT                      Austria          3       1.20
+24                SRB                       Serbia          3       1.20
+25                FRA                       France          3       1.20
+26                THA                     Thailand          3       1.20
+27                ESP                        Spain          3       1.20
+28                BLR                      Belarus          3       1.20
+29                TZA  United Republic of Tanzania          3       1.20
+30                BOL                      Bolivia          3       1.20
+31                MNG                     Mongolia          3       1.20
+32                SVK                     Slovakia          3       1.20
+33                PAK                     Pakistan          3       1.20
+34                LVA                       Latvia          2       0.80
+35                NPL                        Nepal          2       0.80
+36                URY                      Uruguay          2       0.80
+37                SVN                     Slovenia          2       0.80
+38                KEN                        Kenya          2       0.80
+39                FIN                      Finland          2       0.80
+40                IDN                    Indonesia          2       0.80
+41                EGY                        Egypt          2       0.80
+42                GBR               United Kingdom          2       0.80
+43                CZE               Czech Republic          1       0.40
+44                TWN                       Taiwan          1       0.40
+45                CHE                  Switzerland          1       0.40
+46                LTU                    Lithuania          1       0.40
+47                IRL                      Ireland          1       0.40
+48                SEN                      Senegal          1       0.40
+49                BWA                     Botswana          1       0.40
+50                KOR           Korea, Republic of          1       0.40
+51                ISL                      Iceland          1       0.40
+52                GTM                    Guatemala          1       0.40
+53                ITA                        Italy          1       0.40
+54                ECU                      Ecuador          1       0.40
+55                JPN                        Japan          1       0.40
+TOTAL                                                     250     100.00

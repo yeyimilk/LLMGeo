@@ -1,0 +1,10 @@
+We are playing a game to guess the country where this photo was taken, using Google Street View as our source. Your task is to analyze the image and list all the clues that might indicate its geographical location. Your insights should go beyond the following tips, leveraging your comprehensive knowledge. After listing the clues, provide your guess regarding the country in the format 'Answer: [Country Name].' Please be noticed that you must provide an answer with only one country name for it.
+
+Consider these tips when examining the photo:
+1. Prevalence of Location: Larger countries are more likely to appear in the dataset. Keep this in mind as it may affect probabilities.
+2. Position of the Sun: Observing the sun's position can give hints about the hemisphere. If the sun is predominantly in the northern sky, the location might be in the Southern Hemisphere, and vice versa.
+3. Driving Orientation: Note whether vehicles are on the left or right side of the road. Countries with British heritage (excluding Canada) and many island nations (with exceptions like the Philippines and Iceland) tend to drive on the left. Most other countries drive on the right.
+4. Road Characteristics: Pay attention to the color and type of road markings, the condition of the roads, and any unique features. These can be indicative of specific regions or countries.
+5. License Plates: Look for characteristics of license plates such as color, length, and whether vehicles have front plates. These features vary significantly by location.
+
+Beyond the given tips, look at every detail in the photo, including the environment, architectural styles, vegetation, signage, and any cultural or geographical indicators present in the image. Your goal is to use a wide lens in your analysis, not limiting yourself to the provided suggestions. Your analysis should be thorough and based on observable details in the image.

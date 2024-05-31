@@ -1,0 +1,65 @@
+---------------------------------------- Summary ----------------------------------------
+
+                 ISO3                                       NAME     IMAGES          %
+1                 BRA                                     Brazil         31      12.40
+2                 IND                                      India         20       8.00
+3                 USA                              United States         14       5.60
+4                 AUS                                  Australia         13       5.20
+5                 ARG                                  Argentina         13       5.20
+6                 CAN                                     Canada         13       5.20
+7                 CHN                                      China         10       4.00
+8                 THA                                   Thailand          8       3.20
+9                 TUR                                     Turkey          8       3.20
+10                POL                                     Poland          8       3.20
+11                FRA                                     France          7       2.80
+12                RUS                                     Russia          6       2.40
+13                ZAF                               South Africa          6       2.40
+14                MEX                                     Mexico          5       2.00
+15                SWE                                     Sweden          5       2.00
+16                LKA                                  Sri Lanka          4       1.60
+17                KHM                                   Cambodia          4       1.60
+18                PER                                       Peru          4       1.60
+19                BGR                                   Bulgaria          3       1.20
+20                ROU                                    Romania          3       1.20
+21                CHE                                Switzerland          3       1.20
+22                DEU                                    Germany          3       1.20
+23                IRQ                                       Iraq          3       1.20
+24                FIN                                    Finland          3       1.20
+25                KEN                                      Kenya          3       1.20
+26                PAK                                   Pakistan          3       1.20
+27                BWA                                   Botswana          2       0.80
+28                IDN                                  Indonesia          2       0.80
+29                AUT                                    Austria          2       0.80
+30                GTM                                  Guatemala          2       0.80
+31                CZE                             Czech Republic          2       0.80
+32                EGY                                      Egypt          2       0.80
+33                BLR                                    Belarus          2       0.80
+34                HUN                                    Hungary          2       0.80
+35                ECU                                    Ecuador          2       0.80
+36                CHL                                      Chile          2       0.80
+37                UKR                                    Ukraine          2       0.80
+38                KOR                         Korea, Republic of          2       0.80
+39                NLD                                Netherlands          1       0.40
+40                DOM                         Dominican Republic          1       0.40
+41                SVK                                   Slovakia          1       0.40
+42                COL                                   Colombia          1       0.40
+43                BEL                                    Belgium          1       0.40
+44                MKD  The former Yugoslav Republic of Macedonia          1       0.40
+45                IRL                                    Ireland          1       0.40
+46                SWZ                                  Swaziland          1       0.40
+47                QAT                                      Qatar          1       0.40
+48                GRC                                     Greece          1       0.40
+49                ISL                                    Iceland          1       0.40
+50                BOL                                    Bolivia          1       0.40
+51                NPL                                      Nepal          1       0.40
+52                TZA                United Republic of Tanzania          1       0.40
+53                GHA                                      Ghana          1       0.40
+54                GBR                             United Kingdom          1       0.40
+55                PHL                                Philippines          1       0.40
+56                NGA                                    Nigeria          1       0.40
+57                VNM                                   Viet Nam          1       0.40
+58                MYS                                   Malaysia          1       0.40
+59                PRY                                   Paraguay          1       0.40
+60                MDG                                 Madagascar          1       0.40
+61                PSE                                  Palestine          1       0.40
+TOTAL

@@ -53,3 +53,25 @@ This dataset consists of images sourced from Google Maps, designed to evaluate L
 | *Static few shots sample* |
 
 
+### Reproduction
+#### Baseline
+```
+cd src
+python geo_clip.py
+python chatgpt.py
+python gemini.py
+python blip2.py
+python fuyu.py
+python xcomposer.py
+
+// before running this, you need to applied this PR https://github.com/haotian-liu/LLaVA/pull/1160
+// or you have to adjust the code
+python llava_engine.py checkout 
+```
+#### Finetune
+To generate the data for fintuning, you can run `python data_loader.py`, but you may need to adjust the path to your abs path. Sample files are in `dataset/finetunes/`
+
+And you need to adjust the finetuned_model path within `llava_engine.py` and `xcomposer.py` before running.
+
+### Cite
+If you can find our project is useful, please cite our paper

@@ -1,0 +1,56 @@
+---------------------------------------- Summary ----------------------------------------
+
+                 ISO3                         NAME     IMAGES          %
+1                 BRA                       Brazil         35      14.00
+2                 IND                        India         22       8.80
+3                 RUS                       Russia         21       8.40
+4                 AUS                    Australia         20       8.00
+5                 ARG                    Argentina         12       4.80
+6                 CAN                       Canada         11       4.40
+7                 TUR                       Turkey          9       3.60
+8                 ROU                      Romania          7       2.80
+9                 FRA                       France          7       2.80
+10                UKR                      Ukraine          6       2.40
+11                DEU                      Germany          6       2.40
+12                USA                United States          6       2.40
+13                CHN                        China          6       2.40
+14                IDN                    Indonesia          6       2.40
+15                POL                       Poland          5       2.00
+16                FIN                      Finland          4       1.60
+17                NGA                      Nigeria          4       1.60
+18                HUN                      Hungary          4       1.60
+19                MEX                       Mexico          4       1.60
+20                SWE                       Sweden          4       1.60
+21                COL                     Colombia          3       1.20
+22                MNG                     Mongolia          3       1.20
+23                ZAF                 South Africa          3       1.20
+24                SEN                      Senegal          3       1.20
+25                ESP                        Spain          3       1.20
+26                URY                      Uruguay          2       0.80
+27                AUT                      Austria          2       0.80
+28                LTU                    Lithuania          2       0.80
+29                GBR               United Kingdom          2       0.80
+30                PER                         Peru          2       0.80
+31                BOL                      Bolivia          2       0.80
+32                PRY                     Paraguay          2       0.80
+33                KEN                        Kenya          2       0.80
+34                PAK                     Pakistan          2       0.80
+35                NOR                       Norway          1       0.40
+36                KOR           Korea, Republic of          1       0.40
+37                LBN                      Lebanon          1       0.40
+38                LVA                       Latvia          1       0.40
+39                LKA                    Sri Lanka          1       0.40
+40                IRL                      Ireland          1       0.40
+41                TZA  United Republic of Tanzania          1       0.40
+42                SRB                       Serbia          1       0.40
+43                BGR                     Bulgaria          1       0.40
+44                VNM                     Viet Nam          1       0.40
+45                TUN                      Tunisia          1       0.40
+46                BWA                     Botswana          1       0.40
+47                KGZ                   Kyrgyzstan          1       0.40
+48                BLR                      Belarus          1       0.40
+49                UGA                       Uganda          1       0.40
+50                MYS                     Malaysia          1       0.40
+51                PHL                  Philippines          1       0.40
+52                PSE                    Palestine          1       0.40
+TOTAL                                                     250     100.00
