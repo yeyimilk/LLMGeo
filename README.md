@@ -75,3 +75,14 @@ And you need to adjust the finetuned_model path within `llava_engine.py` and `xc
 
 ### Cite
 If you can find our project is useful, please cite our paper
+
+```
+@misc{wang2024llmgeo,
+      title={LLMGeo: Benchmarking Large Language Models on Image Geolocation In-the-wild}, 
+      author={Zhiqiang Wang and Dejia Xu and Rana Muhammad Shahroz Khan and Yanbin Lin and Zhiwen Fan and Xingquan Zhu},
+      year={2024},
+      eprint={2405.20363},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
