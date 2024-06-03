@@ -50,7 +50,7 @@ This dataset consists of images sourced from Google Maps, designed to evaluate L
 
 | ![Dynamic few shots sample](./git_images/dynamic_few_shot.png) | 
 |:--:| 
-| *Static few shots sample* |
+| *Dynamic few shots sample* |
 
 
 ### Reproduction
