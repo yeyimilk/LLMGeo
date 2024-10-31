@@ -86,3 +86,5 @@ If you can find our project is useful, please cite our paper
       primaryClass={cs.CV}
 }
 ```
+
+If you are interested in evaluating the LLM's abilities in classifiying marine animals, please refer to our another project [LLM-Vision-Marine-Animals](https://github.com/yeyimilk/LLM-Vision-Marine-Animals).
